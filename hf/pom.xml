@@ -70,7 +70,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.8.1</version>
+			<version>3.18.0</version>
 		</dependency>
 		<!-- 시큐리티 설정을 하면 화면에서 로그인페이지로 연결되고 이 계정의 비번은 로그에 남아있음 -->
 		<dependency>
